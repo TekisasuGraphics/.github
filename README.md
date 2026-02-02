@@ -2,6 +2,8 @@
 
 Tekisasu Graphics is a private modification of [Aseprite](https://github.com/aseprite/aseprite), a pixel art tool and sprite editor.
 
+![Project Screenshot](profile/screenshot.png "Tekisasu Graphics screenshot")
+
 ## About
 
 This project focuses on customizing Aseprite to better integrate with the Tekisasu Engine pipeline. The primary modifications center around customized default export options that are optimized for game development workflows in the Tekisasu Engine.
